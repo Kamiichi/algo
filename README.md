@@ -1,0 +1,1 @@
+Learn algorithm for myself
