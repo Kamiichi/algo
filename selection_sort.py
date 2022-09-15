@@ -3,7 +3,6 @@ in_list = list(map(int, input().split()))
 left = 0
 right = len(in_list)
 
-print(*in_list)
 while True:
     if left == right:
         break
